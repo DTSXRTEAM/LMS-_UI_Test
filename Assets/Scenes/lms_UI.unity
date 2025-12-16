@@ -33710,14 +33710,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 943aaaa8dba254fa2adc431759b22ed0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  searchInput: {fileID: 315428584}
-  searchableObjects:
-  - {fileID: 830627199}
-  - {fileID: 255124485}
-  - {fileID: 892710564}
-  - {fileID: 861752835}
-  - {fileID: 1367240724}
-  - {fileID: 1761154212}
 --- !u!1 &1443386120
 GameObject:
   m_ObjectHideFlags: 0
